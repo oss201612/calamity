@@ -1,0 +1,7 @@
+{
+  "BossesStopWeather": true,
+  "StealthInvisibility": false,
+  "WikiStatusMessage": false,
+  "TownNPCsSpawnAtNight": true,
+  "TownNPCSpawnRateMultiplier": 10
+}
